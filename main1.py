@@ -1,4 +1,5 @@
-import o
+#importing various libs / packager
+import os
 import sys
 import logging
 import asyncio
