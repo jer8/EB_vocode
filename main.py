@@ -1,6 +1,6 @@
 import os
 import sys
-import loggin
+import logging
 import uvicorn
 from typing import Optional
 from fastapi import FastAPI, Request, Form
