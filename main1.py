@@ -1,3 +1,4 @@
+#Demo2 AZURE synth configured
 #importing various libs / packager
 import os
 import sys
